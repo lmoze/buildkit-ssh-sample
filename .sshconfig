@@ -1,0 +1,2 @@
+host github.com
+	StrictHostKeyChecking accept-new
